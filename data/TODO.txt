@@ -1,0 +1,25 @@
+TODO LIST
+
+[+] - Added
+[-] - Removed
+[!] - Changed
+[/] - Tiny Changes 
+[*] - TO Add
+
+==================
+[+] - Network Class in Poop Engine for multiplayer games
+[/] - DATABASE Saving
+[*] - Character Creation
+[/] - Multiplayer Option
+
+==================
+
+DATABASE ORGANIZATION
+
+INT - INTEGER(NUMBER, 1, 2, 3, 0.3,0.033333)
+TEXT - STRING("A","B","C")
+
+NAME = TEXT
+STATS = TEXT(JSON) (LEVEL, POINTS, DAMAGE, DEFENSE, AGILITY, INTELIGENCE, HEALTH, MAXHEALTH)
+WORLD = TEXT(LIST) (Contains all the world items)
+WORLD_SIZE = INT
