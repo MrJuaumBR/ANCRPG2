@@ -28,10 +28,17 @@ Simple follow this steps:
 You can see here how libraries we used!
 
 > PyGame
+
 > requests
+
 > Pyperclip
+
 > socket
+
 > sqlite3
+
 > subprocess
+
 > math
+
 > ...
