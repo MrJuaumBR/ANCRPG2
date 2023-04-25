@@ -5,12 +5,12 @@ The Second game of the An Common RPG, with great news!
 In this new ANCRPG we idea is an game Open-Source, and with Multiplayer!
 Currently in devlopment, but this will take an big time to have an "first version"
 
-# How to play in multplay?
+# How to play in multiplay?
 Simple follow this steps:
 
-1- Open Game
+1- Open The Game
 
-2- Click in play, select a character
+2- Click in play, select an character
 
 3- Click in multiplayer
 
@@ -22,4 +22,16 @@ Simple follow this steps:
   
 5- Have Funny ^^
 
-**State: Don't working**
+**Multiplayer State: Don't working**
+
+# Libraries
+You can see here how libraries we used!
+
+> PyGame
+> requests
+> Pyperclip
+> socket
+> sqlite3
+> subprocess
+> math
+> ...
